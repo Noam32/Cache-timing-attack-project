@@ -11,7 +11,7 @@ You need to have the FileIoFunctions.h in the same directory (used as a library 
 Also, you nedd to have "cacheDataArray.txt" , "cacheTagArray.txt" , "SharedMemoryPage.txt" in the same directory as well.
 The attacker and victim runnables should also run from the same directory.
 
-***Overall - just put have the files in the same directory ***
+***Overall - just  have the files in the same directory ***
 ___________________________________________________________________________________________________
 How to run after compiling (or run the exsting compiled runnable files) ?
 Open the terminal , navigate to the folder where all the files are.
